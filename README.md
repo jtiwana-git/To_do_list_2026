@@ -1,3 +1,5 @@
+# TO DO LIST APP
+
 ## Overview of the app structure
 
 This project is a small React task manager. Its main idea is simple:
